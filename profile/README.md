@@ -1,6 +1,10 @@
-# Toulouse DevOps
+<p align="center">
+  <img src="profile/logo-toulouse-devops.png" alt="Toulouse DevOps" width="200">
+</p>
 
-**La communauté DevOps de Toulouse** -- Meetups, talks et partage de bonnes pratiques.
+<h1 align="center">Toulouse DevOps</h1>
+
+<p align="center"><strong>La communauté DevOps de Toulouse</strong> -- Meetups, talks et partage de bonnes pratiques.</p>
 
 Toulouse DevOps rassemble les passionnés d'infrastructure, d'automatisation et de culture DevOps dans la Ville Rose. Nous organisons des **meetups gratuits** avec des talks techniques, des retours d'expérience et du networking.
 
