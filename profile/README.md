@@ -25,7 +25,6 @@ Kubernetes, CI/CD, Observabilité, Platform Engineering, Infrastructure as Code,
 - [LinkedIn](https://linkedin.com/company/toulouse-devops)
 - [Bluesky](https://bsky.app/profile/toulouse-devops.org)
 - [X / Twitter](https://x.com/toulousedevops)
-- [Instagram](https://instagram.com/toulouse-devops)
 
 ## Proposer un talk
 
